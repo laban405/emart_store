@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>841077018919-2hpbb3147s2543g3elf4ldclfrc8m8lj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.841077018919-2hpbb3147s2543g3elf4ldclfrc8m8lj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>841077018919-19kk2v8gtn67780pskpo07kutct6v1t4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOGbjAMQOqOtPm4kEy5RO3PcZxJzkExHo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>841077018919</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emart.store</string>
+	<key>PROJECT_ID</key>
+	<string>emart-8d99f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emart-8d99f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:841077018919:ios:08525c58295bdbfdb5d902</string>
+	<key>DATABASE_URL</key>
+	<string>https://emart-8d99f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
