@@ -23,7 +23,7 @@ dependencies:
   flutter_local_notifications: ^17.1.2
   flutter_facebook_auth: ^7.0.0
   geoflutterfire2: ^2.3.15
-  geolocator: ^10.0.1
+  geolocator: ^10.1.1
   geocoding: ^3.0.0
   googleapis_auth: ^1.6.0
 

@@ -45,7 +45,7 @@ const MINUTE_MILLIS = 60 * SECOND_MILLIS;
 const HOUR_MILLIS = 60 * MINUTE_MILLIS;
 String senderId = '';
 String jsonNotificationFileURL = '';
-String GOOGLE_API_KEY = '';
+String GOOGLE_API_KEY = 'AIzaSyDguptQvRbwyKNpm9Qn_SfqnSM0qHOTcBQ';
 
 const ORDER_STATUS_PLACED = 'Order Placed';
 const ORDER_STATUS_ACCEPTED = 'Order Accepted';
